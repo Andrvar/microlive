@@ -1,3 +1,3 @@
 select *
 from TABLE 
-where
+where -- коммент23 
