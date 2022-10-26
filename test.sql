@@ -1,3 +1,3 @@
-select
+select FROM
 русской
 select -- коммент
