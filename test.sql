@@ -1,2 +1,3 @@
 select *
-from TABLE
+from TABLE 
+where
